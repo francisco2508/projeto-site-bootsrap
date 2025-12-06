@@ -125,3 +125,9 @@ footer {
   margin: auto;
   border-radius: 10px;
 }
+
+#carouselDestaque img {
+  height: 300px; 
+        
+  object-fit: cover;   
+}
